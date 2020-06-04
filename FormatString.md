@@ -3,6 +3,8 @@
 This tool was born because of the format string exploits used in pwn.
 Actually it support ELF32 and ELF64 formats but, who knows, maybe more in the future...
 
+You can use this tool to easily convert the content of a formated string dumped.
+
 Powered by python2
 ## Example of use
 ```bash
